@@ -1,0 +1,10 @@
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx1\ITMO2020.PracticeEexercise1\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx1\ITMO2020.PracticeEexercise1\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx1\ITMO2020.PracticeEexercise1\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx1\ITMO2020.PracticeEexercise1\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx1\ITMO2020.PracticeEexercise1\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx1\ITMO2020.PracticeEexercise1\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx1\ITMO2020.PracticeEexercise1\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx1\ITMO2020.PracticeEexercise1\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx1\ITMO2020.PracticeEexercise1\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx1\ITMO2020.PracticeEexercise1\DBConnection\obj\Debug\DBConnection.pdb
