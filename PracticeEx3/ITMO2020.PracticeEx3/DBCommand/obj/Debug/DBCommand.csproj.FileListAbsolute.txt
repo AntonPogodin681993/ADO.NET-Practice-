@@ -1,0 +1,10 @@
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx3\ITMO2020.PracticeEx3\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx3\ITMO2020.PracticeEx3\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx3\ITMO2020.PracticeEx3\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx3\ITMO2020.PracticeEx3\DBCommand\obj\Debug\DBCommand.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx3\ITMO2020.PracticeEx3\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx3\ITMO2020.PracticeEx3\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx3\ITMO2020.PracticeEx3\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx3\ITMO2020.PracticeEx3\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx3\ITMO2020.PracticeEx3\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx3\ITMO2020.PracticeEx3\DBCommand\obj\Debug\DBCommand.pdb
