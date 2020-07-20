@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatasetDesigner", "DatasetDesigner\DatasetDesigner.csproj", "{6D8BECE6-FEA0-461B-978B-039C9EA5B3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingDataTable", "CreatingDataTable\CreatingDataTable.csproj", "{BE184F88-0132-4FC8-8354-18EBD7BB918F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAdapterProgram", "DataAdapterProgram\DataAdapterProgram.csproj", "{E320468F-FEA8-4CF0-BF76-F185C40CAC01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAdapterWizard", "DataAdapterWizard\DataAdapterWizard.csproj", "{9EC540A2-F6A5-40E1-BB4B-FCE3FD613615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingDataTable", "WorkingDataTable\WorkingDataTable.csproj", "{21E0EC48-A961-4DFE-B014-3D8F81305226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataViewExample", "DataViewExample\DataViewExample.csproj", "{D4692D6B-BE9D-492A-BB81-0BD6FA12A7DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D8BECE6-FEA0-461B-978B-039C9EA5B3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8BECE6-FEA0-461B-978B-039C9EA5B3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8BECE6-FEA0-461B-978B-039C9EA5B3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8BECE6-FEA0-461B-978B-039C9EA5B3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE184F88-0132-4FC8-8354-18EBD7BB918F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE184F88-0132-4FC8-8354-18EBD7BB918F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE184F88-0132-4FC8-8354-18EBD7BB918F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE184F88-0132-4FC8-8354-18EBD7BB918F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E320468F-FEA8-4CF0-BF76-F185C40CAC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E320468F-FEA8-4CF0-BF76-F185C40CAC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E320468F-FEA8-4CF0-BF76-F185C40CAC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E320468F-FEA8-4CF0-BF76-F185C40CAC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC540A2-F6A5-40E1-BB4B-FCE3FD613615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC540A2-F6A5-40E1-BB4B-FCE3FD613615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC540A2-F6A5-40E1-BB4B-FCE3FD613615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC540A2-F6A5-40E1-BB4B-FCE3FD613615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E0EC48-A961-4DFE-B014-3D8F81305226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E0EC48-A961-4DFE-B014-3D8F81305226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E0EC48-A961-4DFE-B014-3D8F81305226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E0EC48-A961-4DFE-B014-3D8F81305226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4692D6B-BE9D-492A-BB81-0BD6FA12A7DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4692D6B-BE9D-492A-BB81-0BD6FA12A7DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4692D6B-BE9D-492A-BB81-0BD6FA12A7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4692D6B-BE9D-492A-BB81-0BD6FA12A7DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35779BD7-0422-4BEB-B9DD-DD31B75FCACF}
+	EndGlobalSection
+EndGlobal
