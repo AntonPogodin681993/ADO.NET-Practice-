@@ -1,0 +1,7 @@
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx7\ITMO2020.PracticeEx7\Linq_Student\bin\Debug\Linq_Student.exe.config
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx7\ITMO2020.PracticeEx7\Linq_Student\bin\Debug\Linq_Student.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx7\ITMO2020.PracticeEx7\Linq_Student\bin\Debug\Linq_Student.pdb
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx7\ITMO2020.PracticeEx7\Linq_Student\obj\Debug\Linq_Student.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx7\ITMO2020.PracticeEx7\Linq_Student\obj\Debug\Linq_Student.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx7\ITMO2020.PracticeEx7\Linq_Student\obj\Debug\Linq_Student.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx7\ITMO2020.PracticeEx7\Linq_Student\obj\Debug\Linq_Student.pdb
