@@ -1,0 +1,10 @@
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PtacticeEx6\ITMO2020.PracticeEx6\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PtacticeEx6\ITMO2020.PracticeEx6\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PtacticeEx6\ITMO2020.PracticeEx6\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PtacticeEx6\ITMO2020.PracticeEx6\SavingDataSetXml\obj\Debug\SavingDataSetXml.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PtacticeEx6\ITMO2020.PracticeEx6\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PtacticeEx6\ITMO2020.PracticeEx6\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PtacticeEx6\ITMO2020.PracticeEx6\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PtacticeEx6\ITMO2020.PracticeEx6\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PtacticeEx6\ITMO2020.PracticeEx6\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PtacticeEx6\ITMO2020.PracticeEx6\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb
