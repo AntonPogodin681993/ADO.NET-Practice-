@@ -1,0 +1,10 @@
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx8\ITMO2020.PracticeEx8\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx8\ITMO2020.PracticeEx8\LINQsql_m\bin\Debug\LINQsql_m.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx8\ITMO2020.PracticeEx8\LINQsql_m\bin\Debug\LINQsql_m.pdb
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx8\ITMO2020.PracticeEx8\LINQsql_m\obj\Debug\LINQsql_m.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx8\ITMO2020.PracticeEx8\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx8\ITMO2020.PracticeEx8\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx8\ITMO2020.PracticeEx8\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx8\ITMO2020.PracticeEx8\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx8\ITMO2020.PracticeEx8\LINQsql_m\obj\Debug\LINQsql_m.exe
+C:\Users\anton\Desktop\ADO.NET\Практика(выполнение)\PracticeEx8\ITMO2020.PracticeEx8\LINQsql_m\obj\Debug\LINQsql_m.pdb
